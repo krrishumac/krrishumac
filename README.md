@@ -34,7 +34,7 @@ VB.NET, Arduino
 
 ## 🌐 Connect With Me
 
-* Linked In: [Krish Macwan](https://www.linkedin.com/in/krrishumac/)
+* **LinkedIn** : [Krish Macwan](https://www.linkedin.com/in/krrishumac/)
 
 ---
 
