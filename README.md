@@ -36,7 +36,7 @@
 
 ## 🔥 Featured Projects
 
-### 🚗 Gesture-Free Hand Following Robot Car
+### 🚗 Palm Gesture Controlled Robot Car
 
 https://github.com/krrishumac/palm-gesture-car
 
