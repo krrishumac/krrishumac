@@ -1,19 +1,11 @@
-<h1 align="center">Hi 👋, I'm Krish Macwan and am currently pursuing my Computer Applications UG degree!</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Web+Developer;Computer+Applications+Student;Tech+Enthusiast;Building+Real+World+Projects" />
-</h3>
-
----
+# Hi 👋, I'm Krish Macwan
 
 ## 🚀 About Me
 
-<p align="center">
-💻 Web Development & Backend Systems <br>
-💡 Real-World Project Building <br>
-🔍 Tech Exploration (Software + Hardware) <br>
-🚀 Continuous Learning
-</p>
+* 💻 Web Development & Backend Systems
+* 💡 Building practical, real-world projects
+* 🔍 Exploring technology across software and hardware
+* 🚀 Continuously learning and improving
 
 ---
 
@@ -21,27 +13,24 @@
 
 ### 💻 Programming
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
-</p>
+![C](https://img.shields.io/badge/C-blue?style=flat-square)
+![C++](https://img.shields.io/badge/C++-blue?style=flat-square)
+![Java](https://img.shields.io/badge/Java-red?style=flat-square)
+![Python](https://img.shields.io/badge/Python-yellow?style=flat-square)
 
 ### 🌐 Web Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,php" />
-</p>
+![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-purple?style=flat-square)
 
 ### 🗄️ Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square)
 
 ### ⚙️ Other
 
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino" />
-</p>
+![Arduino](https://img.shields.io/badge/Arduino-teal?style=flat-square)
 
 ---
 
@@ -49,34 +38,20 @@
 
 ### 🚗 Gesture-Free Hand Following Robot Car
 
-🔗 https://github.com/krrishumac/palm-gesture-car
-
----
+https://github.com/krrishumac/palm-gesture-car
 
 ### 🏦 Banking Core Management System
 
-🔗 https://github.com/krrishumac/banking-management-system
+https://github.com/krrishumac/banking-management-system
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/krrishumac/)">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+* 💼 LinkedIn: https://www.linkedin.com/in/krrishumac/
 
 ---
 
 ## ⚡ Fun Fact
 
-<p align="center">
-I enjoy building both software and hardware projects 😄
-</p>
-
----
-
-<p align="center">
-✨ Thanks for visiting my profile! ✨
-</p>
+I enjoy building both software and hardware projects, combining logic with real-world interaction.
