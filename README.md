@@ -11,16 +11,16 @@
 
 ## 🛠️ Tech Stack
 
-**Web Development**
+**Web Development** : 
 HTML, CSS, JavaScript, PHP
 
-**Database**
+**Database** : 
 SQL, MySQL
 
-**Programming Languages**
+**Programming Languages** : 
 C, C++, Java, Python
 
-**Other**
+**Other** : 
 VB.NET, Arduino
 
 ---
@@ -34,7 +34,7 @@ VB.NET, Arduino
 
 ## 🌐 Connect With Me
 
-* LinkedIn: [Krish Macwan](https://www.linkedin.com/in/krrishumac/)
+* Linked In: [Krish Macwan](https://www.linkedin.com/in/krrishumac/)
 
 ---
 
